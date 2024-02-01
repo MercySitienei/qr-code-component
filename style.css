@@ -18,7 +18,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 82vh;
+    height: 500px;
 }
 img{
     border-radius: 5%;
